@@ -6,13 +6,11 @@ Claro, aqui está uma versão do README com uma formatação mais elaborada, usa
 
 > Uma plataforma de inteligência artificial projetada para prever e mitigar crises de insegurança alimentar em escala global.
 
-\<br\>
 
 ## 📖 **Sobre o Projeto**
 
 O **Data4Food** é uma solução tecnológica desenvolvida para o desafio **Global Solutions da FIAP**. [cite\_start]O projeto visa combater a falta de sistemas integrados de alerta precoce sobre riscos de insegurança alimentar[cite: 11], um dos maiores desafios globais da atualidade.
 
-\<br\>
 
 ## 🌐 **O Desafio**
 
@@ -74,15 +72,12 @@ Infraestrutura e DevOps:
   - [cite_start]Containers:   Docker [cite: 57]
 ```
 
-\<br\>
 
 ## 👥 **Equipe**
 
   * [cite\_start]**Gustavo Sousa** - RM 566473 [cite: 3, 4]
   * [cite\_start]**Vinicios Silva** - RM 564534 [cite: 6, 8]
   * [cite\_start]**Vinicius Perez** - RM 563324 [cite: 7, 9]
-
-\<br\>
 
 ## 📄 **Licença**
 
